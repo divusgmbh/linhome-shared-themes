@@ -1,6 +1,6 @@
 <config xmlns="http://www.linphone.org/xsds/lpconfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.linphone.org/xsds/lpconfig.xsd lpconfig.xsd">
 	<section name="colors">
-		<entry name="color_a">#ffff5e00</entry> <!-- zenitel = #ffffd400 -->
+		<entry name="color_a">#ff0074d6</entry> <!-- zenitel = #ffffd400 -->
 		<entry name="color_b">#444444</entry>
 		<entry name="color_c">#ffffff</entry>
 		<entry name="color_d">#f4f4f4</entry>
@@ -36,7 +36,7 @@
 
 	<section name="gradient-color.dark_light_vertical_gradient"> <!--Used by launch screen -->
 		<entry name="from">color_a</entry>
-		<entry name="to">color_s</entry>
+		<entry name="to">color_a</entry>
 		<entry name="orientation">top_bottom</entry> <!--Supported values are : top_bottom (default), bottom_top, right_left, left_right -->
 	</section>
 
@@ -140,7 +140,7 @@
 
 
 	<section name="textview-style.about_link">
-		<entry name="text-color">color_a</entry>
+		<entry name="text-color">color_c</entry>
 		<entry name="font">Roboto-Bold</entry> <!-- Font name must match name in ZIP or in Asset of the app. Asset is looked up first then zip -->
 		<entry name="size">17</entry>
 		<entry name="align">center</entry> <!--  supported values are : start (default), center, end. -->
