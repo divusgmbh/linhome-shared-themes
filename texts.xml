@@ -15,14 +15,14 @@
 	 -->
 	
 	<section name="appname">
-		<entry name="default">Videophone Mobile</entry>
+		<entry name="default">DIVUS VIDEOPHONE Mobile</entry>
 	</section>
 
 	<section name="splash_title">
-		<entry name="default">The white label app for IP intercom systems</entry>
-		<entry name="fr">L'app customisable pour les interphones IP</entry>
-		<entry name="pl">Konfigurowalna aplikacja dla domofonów IP</entry>
-		<entry name="de">Die frei konfigurierbare App für IP-Gegensprechanlagen</entry>
+		<entry name="default">The DIVUS app for IP intercom systems</entry>
+		<entry name="fr">L'app DIVUS pour les interphones IP</entry>
+		<entry name="pl">DIVUS aplikacja dla domofonów IP</entry>
+		<entry name="de">Die DIVUS App für IP-Gegensprechanlagen</entry>
 	</section>
 
 	<section name="devices">
@@ -737,11 +737,11 @@
 	</section>
 		
 	<section name="support_email_android">
-		<entry name="default">linhome-android@belledonne-communications.com</entry>
+		<entry name="default">support@divus.eu</entry>
 	</section>
 	
 	<section name="support_email_ios">
-		<entry name="default">linhome-ios@belledonne-communications.com</entry>
+		<entry name="default">support@divus.eu</entry>
 	</section>
 	
 	<section name="enable_debuglogs">
@@ -1034,7 +1034,7 @@
 	<!-- about -->
 
 	<section name="about_link">
-		<entry name="default">www.linhome.org</entry>
+		<entry name="default">www.divus.eu</entry>
 	</section>
 	
 	<section name="app_version">
@@ -1054,7 +1054,7 @@
 	</section>
 	
 	<section name="copyright_text">
-		<entry name="default">© Belledonne Communications</entry>
+		<entry name="default">© DIVUS GmbH.</entry>
 	</section>
 	
 	<!-- dialogs & generic words -->
