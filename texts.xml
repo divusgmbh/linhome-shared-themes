@@ -1033,8 +1033,12 @@
 		
 	<!-- about -->
 
-	<section name="about_link">
+	<section name="about_text">
 		<entry name="default">www.divus.eu</entry>
+	</section>
+
+	<section name="about_link">
+		<entry name="default">https://www.divus.eu/</entry>
 	</section>
 	
 	<section name="app_version">
