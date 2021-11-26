@@ -1,6 +1,6 @@
 <config xmlns="http://www.linphone.org/xsds/lpconfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.linphone.org/xsds/lpconfig.xsd lpconfig.xsd">
 	<section name="colors">
-		<entry name="color_a">#ff0074d6</entry> <!-- zenitel = #ffffd400 -->
+		<entry name="color_a">#ff00a6d6</entry> <!-- zenitel = #ffffd400 -->
 		<entry name="color_b">#444444</entry>
 		<entry name="color_c">#ffffff</entry>
 		<entry name="color_d">#f4f4f4</entry>
@@ -126,7 +126,7 @@
 	<section name="textview-style.splash_title">
 		<entry name="text-color">color_c</entry>
 		<entry name="font">Roboto-Regular</entry> <!-- Font name must match name in ZIP or in Asset of the app. Asset is looked up first then zip -->
-		<entry name="size">15</entry>
+		<entry name="size">20</entry>
 		<entry name="align">center</entry> <!--  supported values are : start (default), center, end. -->
 	</section>
 
