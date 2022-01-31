@@ -363,6 +363,10 @@
 		<entry name="pl">Login</entry>
 		<entry name="de">Login</entry>
 	</section>
+	
+	<section name="login_untranslated">
+		<entry name="default">Login</entry>
+	</section>
 
 	<section name="input_invalid_empty_field">
 		<entry name="default">Mandatory field</entry>
