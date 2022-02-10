@@ -367,6 +367,21 @@
 	<section name="login_untranslated">
 		<entry name="default">Login</entry>
 	</section>
+	
+	<section name="register_hint_text">
+		<entry name="default">If you don't already have a DIVUS Cloud account you can register here:</entry>
+		<entry name="fr">Si vous n'avez pas encore de compte DIVUS Cloud, vous pouvez vous inscrire ici:</entry>
+		<entry name="pl">Jeśli nie masz jeszcze konta DIVUS Cloud, możesz zarejestrować się tutaj:</entry>
+		<entry name="de">Falls Sie nicht bereits einen DIVUS Cloud Account haben können Sie sich hier registrieren:</entry>
+	</section>
+	
+	<section name="register_hint_url">
+		<entry name="default">cloud.divus.eu</entry>
+	</section>
+	
+	<section name="register_hint_link">
+		<entry name="default">https://cloud.divus.eu/</entry>
+	</section>
 
 	<section name="input_invalid_empty_field">
 		<entry name="default">Mandatory field</entry>
