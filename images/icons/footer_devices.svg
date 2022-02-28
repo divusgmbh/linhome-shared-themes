@@ -1,10 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="92" height="112" viewBox="0 0 92 112">
-    <g fill="none" fill-rule="evenodd">
-        <g>
-            <path fill="#FFF" d="M0.106 31.314H56.52V33.834H0.106z" transform="translate(18 20)"/>
-            <path fill="#FFF" stroke="#FFF" stroke-width="1.333" d="M40.012 65.712c1.99 0 3.603 1.562 3.603 3.49h0v.308c0 1.927-1.613 3.49-3.603 3.49-1.99 0-3.604-1.563-3.604-3.49h0v-.308c0-1.927 1.614-3.49 3.604-3.49zm-12.012 0c1.99 0 3.604 1.562 3.604 3.49h0v.308C31.604 71.437 29.99 73 28 73c-1.99 0-3.604-1.563-3.604-3.49h0v-.308c0-1.927 1.614-3.49 3.604-3.49zm-12.012 0c1.99 0 3.604 1.562 3.604 3.49h0v.308c0 1.927-1.613 3.49-3.604 3.49-1.99 0-3.603-1.563-3.603-3.49h0v-.308c0-1.927 1.614-3.49 3.603-3.49zM40.012 54.78c1.99 0 3.603 1.563 3.603 3.49h0v.309c0 1.926-1.613 3.49-3.603 3.49-1.99 0-3.604-1.564-3.604-3.49h0v-.309c0-1.927 1.614-3.49 3.604-3.49zM28 54.78c1.99 0 3.604 1.563 3.604 3.49h0v.309c0 1.926-1.613 3.49-3.604 3.49-1.99 0-3.604-1.564-3.604-3.49h0v-.309c0-1.927 1.614-3.49 3.604-3.49zm-12.012 0c1.99 0 3.604 1.563 3.604 3.49h0v.309c0 1.926-1.613 3.49-3.604 3.49-1.99 0-3.603-1.564-3.603-3.49h0v-.309c0-1.927 1.614-3.49 3.603-3.49zm24.024-10.932c1.99 0 3.603 1.562 3.603 3.49h0v.309c0 1.926-1.613 3.49-3.603 3.49-1.99 0-3.604-1.564-3.604-3.49h0v-.309c0-1.927 1.614-3.49 3.604-3.49zm-12.012 0c1.99 0 3.604 1.562 3.604 3.49h0v.309c0 1.926-1.613 3.49-3.604 3.49-1.99 0-3.604-1.564-3.604-3.49h0v-.309c0-1.927 1.614-3.49 3.604-3.49zm-12.012 0c1.99 0 3.604 1.562 3.604 3.49h0v.309c0 1.926-1.613 3.49-3.604 3.49-1.99 0-3.603-1.564-3.603-3.49h0v-.309c0-1.927 1.614-3.49 3.603-3.49z" transform="translate(18 20)"/>
-            <path stroke="#FFF" stroke-width="5" d="M18.275 10.111c0 5.565 4.503 10.091 10.039 10.091 5.534 0 10.038-4.526 10.038-10.09C38.352 4.546 33.848.02 28.314.02c-5.536 0-10.039 4.527-10.039 10.091z" transform="translate(18 20)"/>
-        </g>
-        <rect width="84.5" height="104.5" x="3.75" y="3.75" stroke="#FFF" stroke-width="7.5" rx="9"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="107"
+   height="107"
+   viewBox="0 0 107 107"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="footer_devices_FL2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.34364068"
+     inkscape:cx="-576.18324"
+     inkscape:cy="-225.52627"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="3832"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     style="fill:#fffffe;fill-opacity:1;stroke:#ffffff;stroke-width:2.02157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 41.306191,63.111986 v -4.200091 c 0,0 0.769696,-1.179525 1.219379,-1.82907 0.609691,-0.880664 2.001714,-9.893836 3.014582,-13.074475 1.784911,-5.605034 5.012887,-7.633716 7.824361,-7.655002 3.827268,-0.02898 6.537584,2.985536 8.027592,7.722746 1.6314,5.18674 2.60812,11.787349 2.879095,12.329297 0.270972,0.541946 1.422609,2.777478 1.422609,2.777478 v 3.929117 z"
+     id="path1186"
+     sodipodi:nodetypes="ccsssssccc" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:3.42142;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 49.104291,67.96136 c 2.845494,0 5.63192,0 8.791406,0 0,0 -1.457773,3.39156 -4.272462,3.409751 -2.85468,0.01847 -4.518944,-3.409751 -4.518944,-3.409751 z"
+     id="path2403"
+     sodipodi:nodetypes="ccsc" />
+  <circle
+     style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6.59009;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     id="circle1524"
+     cx="53.5"
+     cy="53.5"
+     r="50.704956" />
 </svg>

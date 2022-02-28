@@ -9,20 +9,22 @@
 		<entry name="en">English translation  </entry>
 		<entry name="pl">Polish translation  </entry>
 		<entry name="de">German translation  </entry>
+		<entry name="it">Italian translation  </entry>
 		.....
 	 </section>
 	 
 	 -->
 	
 	<section name="appname">
-		<entry name="default">VIDEOPHONE Mobile</entry>
+		<entry name="default">VIDEOPHONE MOBILE</entry>
 	</section>
 
 	<section name="splash_title">
-		<entry name="default">The DIVUS app for IP intercom systems</entry>
-		<entry name="fr">L'app DIVUS pour les interphones IP</entry>
-		<entry name="pl">DIVUS aplikacja dla domofonów IP</entry>
-		<entry name="de">Die DIVUS App für IP-Gegensprechanlagen</entry>
+		<entry name="default">The DIVUS app for IP/Cloud intercom systems</entry>
+		<entry name="fr">L'app DIVUS pour les interphones IP/Cloud</entry>
+		<entry name="pl">DIVUS aplikacja dla domofonów IP/Cloud</entry>
+		<entry name="de">Die DIVUS App für IP/Cloud-Videosprechanlagen</entry>
+		<entry name="it">L'app DIVUS per videocitofonia IP/Cloud</entry>
 	</section>
 
 	<section name="devices">
@@ -30,13 +32,15 @@
 		<entry name="fr">Appareils</entry>
 		<entry name="pl">Urządzenia</entry>
 		<entry name="de">Geräte</entry>
+		<entry name="it">Dispositivi</entry>
 	</section>
 
 	<section name="history">
-		<entry name="default">History</entry>
-		<entry name="fr">Historique</entry>
-		<entry name="pl">Historia</entry>
-		<entry name="de">Geschichte</entry>
+		<entry name="default">Call list</entry>
+		<entry name="fr">Liste d'appels</entry>
+		<entry name="pl">Lista połączeń</entry>
+		<entry name="de">Anrufliste</entry>
+		<entry name="it">Storico</entry>
 	</section>
 
 	<section name="assistant">
@@ -44,6 +48,7 @@
 		<entry name="fr">Assistant</entry>
 		<entry name="pl">Asystent</entry>
 		<entry name="de">Assistent</entry>
+		<entry name="it">Assistente</entry>
 	</section>
 
 	<!-- history -->
@@ -53,6 +58,7 @@
 		<entry name="fr">Aucun enregistrement audio ou vidéo disponible</entry>
 		<entry name="pl">Brak nagrań audio lub wideo</entry>
 		<entry name="de">Keine Audio- oder Videoaufnahmen</entry>
+		<entry name="it">Nessuna registrazione audio o video</entry>
 	</section>
 
 
@@ -61,6 +67,7 @@
 		<entry name="fr">Appareil non enregistré</entry>
 		<entry name="pl">Niezarejestrowano urządzenia</entry>
 		<entry name="de">Nicht registriertes Gerät</entry>
+		<entry name="it">Dispositivo non registrato</entry>
 	</section>
 
 	<section name="history_call_new">
@@ -68,13 +75,15 @@
 		<entry name="fr">nouveau</entry>
 		<entry name="pl">nowy</entry>
 		<entry name="de">Neu</entry>
+		<entry name="it">Nuovo</entry>
 	</section>
 
 	<section name="history_list_call_date_type">
 		<entry name="default">{0} at {1}</entry>
 		<entry name="fr">{0} à {1}</entry>
-		<entry name="pl">{0} w {1}</entry>
-		<entry name="de">{0} auf {1}</entry>
+		<entry name="pl">{0} o {1}</entry>
+		<entry name="de">{0} um {1}</entry>
+		<entry name="it">{0} alle {1}</entry>
 	</section>
 
 	<section name="history_list_call_type_missed">
@@ -82,34 +91,39 @@
 		<entry name="fr">Manqué</entry>
 		<entry name="pl">Nieodebrane</entry>
 		<entry name="de">Verpasst</entry>
+		<entry name="it">Persa</entry>
 	</section>
 
 	<section name="history_list_call_type_declined">
 		<entry name="default">Declined</entry>
 		<entry name="fr">Décliné</entry>
 		<entry name="pl">Odrzucone</entry>
-		<entry name="de">Abgelehnte</entry>
+		<entry name="de">Abgelehnt</entry>
+		<entry name="it">Rifiutata</entry>
 	</section>
 
 	<section name="history_list_call_type_accepted">
 		<entry name="default">Accepted</entry>
 		<entry name="fr">Accepté</entry>
 		<entry name="pl">Zaakceptowane</entry>
-		<entry name="de">Angenommene</entry>
+		<entry name="de">Angenommen</entry>
+		<entry name="it">Accettata</entry>
 	</section>
 
 	<section name="history_list_call_type_called">
 		<entry name="default">Called</entry>
 		<entry name="fr">Appelé</entry>
 		<entry name="pl">Połączenia</entry>
-		<entry name="de">Angerufene</entry>
+		<entry name="de">Angerufen</entry>
+		<entry name="it">Chiamata</entry>
 	</section>
 
 	<section name="history_list_call_type_aborted">
 		<entry name="default">Aborted</entry>
 		<entry name="fr">Annulé</entry>
 		<entry name="pl">Przerwano</entry>
-		<entry name="de">Abgebrochene</entry>
+		<entry name="de">Abgebrochen</entry>
+		<entry name="it">Interrotta</entry>
 	</section>
 	
 	<section name="history_select_all">
@@ -117,6 +131,7 @@
 		<entry name="fr">Tout sélectionner</entry>
 		<entry name="pl">Zaznacz wszystko</entry>
 		<entry name="de">Alle auswählen</entry>
+		<entry name="it">Seleziona tutto</entry>
 	</section>
 
 	<section name="history_deselect_all">
@@ -124,6 +139,7 @@
 		<entry name="fr">Tout désélectionner</entry>
 		<entry name="pl">Odznacz wszystko</entry>
 		<entry name="de">Alle abwählen</entry>
+		<entry name="it">Deseleziona tutto</entry>
 	</section>
 	
 	<section name="delete_history_confirm_message">
@@ -131,6 +147,7 @@
 		<entry name="fr">Supprimer {0} évènement(s) ?</entry>
 		<entry name="pl">Usunąć {0} zdarzeń ?</entry>
 		<entry name="de">Lösche {0} Einträge ?</entry>
+		<entry name="it">Cancella {0} voci ?</entry>
 	</section>
 	
 	<section name="history_empty_list_title">
@@ -138,6 +155,7 @@
 		<entry name="fr">Aucun évènement dans l'historique</entry>
 		<entry name="pl">Nie ma jeszcze dostępnych zdarzeń</entry>
 		<entry name="de">Noch kein Ereignis</entry>
+		<entry name="it">Ancora nessun evento</entry>
 	</section>
 	
 	<!--  Menus  -->
@@ -147,6 +165,7 @@
 		<entry name="fr">Assistant de compte</entry>
 		<entry name="pl">Asystent konta</entry>
 		<entry name="de">Kontoassistent</entry>
+		<entry name="it">Assistente di account</entry>
 	</section>
 
 	<section name="menu_account">
@@ -154,6 +173,7 @@
 		<entry name="fr">Mon compte</entry>
 		<entry name="pl">Moje konto</entry>
 		<entry name="de">Mein Konto</entry>
+		<entry name="it">Mio Account</entry>
 	</section>
 
 	<section name="menu_settings">
@@ -161,6 +181,7 @@
 		<entry name="fr">Réglages</entry>
 		<entry name="pl">Ustawienia</entry>
 		<entry name="de">Einstellungen</entry>
+		<entry name="it">Impostazioni</entry>
 	</section>
 
 	<section name="menu_about">
@@ -168,6 +189,7 @@
 		<entry name="fr">À propos</entry>
 		<entry name="pl">O nas</entry>
 		<entry name="de">Über</entry>
+		<entry name="it">Informazioni</entry>
 	</section>
 
 	<section name="menu_disconnect">
@@ -175,6 +197,7 @@
 		<entry name="fr">Déconnexion du compte</entry>
 		<entry name="pl">Rozłącz konto</entry>
 		<entry name="de">Konto trennen</entry>
+		<entry name="it">Disconnetti l'account</entry>
 	</section>
 		
 	<section name="disconnect_confirm_message">
@@ -182,6 +205,7 @@
 		<entry name="fr">Voulez-vous déconnecter votre compte ?</entry>
 		<entry name="pl">Czy chcesz rozłączyć swoje konto?</entry>
 		<entry name="de">Möchten Sie die Verbindung zu Ihrem Konto trennen?</entry>
+		<entry name="it">Vuoi disconnetterti dal tuo account?</entry>
 	</section>
 		
 	<!--  Assistant  -->
@@ -191,6 +215,7 @@
 		<entry name="fr">Bienvenue</entry>
 		<entry name="pl">Witamy</entry>
 		<entry name="de">Willkommen</entry>
+		<entry name="it">Benvenuto</entry>
 	</section>
 
 	<section name="assistant_welcome_subtitle">
@@ -198,20 +223,23 @@
 		<entry name="fr">Cet assistant vous permet de configurer votre compte.</entry>
 		<entry name="pl">Ten asystent pomoże Ci skonfigurować konto.</entry>
 		<entry name="de">Dieser Assistent hilft Ihnen bei der Konfiguration Ihres Kontos.</entry>
+		<entry name="it">Questo assistente ti aiuterà a configurare il tuo account.</entry>
 	</section>
 
 	<section name="assistant_create_linhome_account">
-		<entry name="default">Create a {appname} account</entry>
-		<entry name="fr">Créer un compte {appname}</entry>
-		<entry name="pl">Utwórz konto {appname}</entry>
-		<entry name="de">Erstelle ein {appname} Konto</entry>
+		<entry name="default">Create a DIVUS Cloud account</entry>
+		<entry name="fr">Créer un compte DIVUS Cloud</entry>
+		<entry name="pl">Utwórz konto DIVUS Cloud</entry>
+		<entry name="de">Erstelle einen DIVUS Cloud Account</entry>
+		<entry name="it">Crea un account DIVUS Cloud</entry>
 	</section>
 
 	<section name="assistant_use_linhome_account">
-		<entry name="default">Use a {appname} account</entry>
-		<entry name="fr">Utiliser un compte {appname}</entry>
-		<entry name="pl">Użyj konta {appname}</entry>
-		<entry name="de">Benutze ein {appname} Konto</entry>
+		<entry name="default">Use a DIVUS Cloud account</entry>
+		<entry name="fr">Utiliser un compte DIVUS Cloud</entry>
+		<entry name="pl">Użyj konta DIVUS Cloud</entry>
+		<entry name="de">Benutze einen DIVUS Cloud Account</entry>
+		<entry name="it">Usa un account DIVUS Cloud</entry>
 	</section>
 
 	<section name="assistant_use_sip_account">
@@ -219,6 +247,7 @@
 		<entry name="fr">Utiliser votre compte SIP</entry>
 		<entry name="pl">Użyj własnego konta SIP</entry>
 		<entry name="de">Benutzen Sie Ihr SIP-Konto</entry>
+		<entry name="it">Usa il tuo account SIP</entry>
 	</section>
 
 	<section name="assistant_remote_prov">
@@ -226,6 +255,7 @@
 		<entry name="fr">Configuration distante</entry>
 		<entry name="pl">Zdalna konfiguracja</entry>
 		<entry name="de">Fern-Konfiguration</entry>
+		<entry name="it">Configurazione remota</entry>
 	</section>
 
 	<section name="assistant_remote_url">
@@ -233,6 +263,7 @@
 		<entry name="fr">Depuis une URL</entry>
 		<entry name="pl">Z adresu URL</entry>
 		<entry name="de">Von der URL</entry>
+		<entry name="it">Dall'URL</entry>
 	</section>
 	
 	<section name="assistant_remote_prov_from_url">
@@ -240,6 +271,7 @@
 		<entry name="fr">Configuration distante depuis une URL</entry>
 		<entry name="pl">Zdalna konfiguracja z adresu URL</entry>
 		<entry name="de">Fern-Konfiguration von der URL</entry>
+		<entry name="it">Configurazione remota dall'URL</entry>
 	</section>
 
 
@@ -248,6 +280,7 @@
 		<entry name="fr">Configurez automatiquement l'application en téléchargeant le fichier de configuration que vous avez généré. Ce fichier doit suivre le format spécifique Linhome. Plus d'infos sur https://wiki.linphone.org.</entry>
 		<entry name="pl">Automatycznie skonfiguruj aplikację, pobierając wygenerowany plik konfiguracyjny. Plik musi być zgodny z formatem Linhome. Więcej informacji na https://www.wiki.linphone.org.</entry>
 		<entry name="de">Konfigurieren Sie die App automatisch, indem Sie die von Ihnen generierte Konfigurationsdatei herunterladen. Die Datei muss dem Linhome-Format folgen. Mehr Informationen unter https://www.wiki.linphone.org.</entry>
+		<entry name="it">Configura l'app automaticamente scaricando il file di configurazione che hai generato. Il file deve seguire il formato Linhome. Maggiori informazioni su https://www.wiki.linphone.org.</entry>
 	</section>
 	
 	
@@ -255,7 +288,8 @@
 		<entry name="default">Flash the QR code that you generated to download the app configuration from your remote configuration server.</entry>
 		<entry name="fr">Flashez le QR Code que vous avez généré pour télécharger la configuration de l'app depuis votre serveur de configuration distante.</entry>
 		<entry name="pl">Zapisz wygenerowany kod QR, aby pobrać konfigurację aplikacji ze zdalnego serwera.</entry>
-		<entry name="de">Flashen Sie den QR-Code, den Sie generiert haben, um die App-Konfiguration von Ihrem Remote-Konfigurationsserver herunterzuladen.</entry>
+		<entry name="de">Scannen Sie den QR-Code, den Sie generiert haben, um die App-Konfiguration von Ihrem Remote-Konfigurationsserver herunterzuladen.</entry>
+		<entry name="it">Leggi il codice QR che hai generato per scaricare la configurazione dell'app dal tuo server di configurazione remoto.</entry>
 	</section>
 	
 
@@ -264,6 +298,7 @@
 		<entry name="fr">La configuration a été effectuée avec succès</entry>
 		<entry name="pl">Konfiguracja zdalna została pomyślnie zastosowana</entry>
 		<entry name="de">Fern-Konfiguration erfolgreich angewendet</entry>
+		<entry name="it">Configurazione remota applicata con successo</entry>
 	</section>
 	
 	<section name="remote_configuration_failed">
@@ -271,12 +306,14 @@
 		<entry name="fr">La configuration a échoué</entry>
 		<entry name="pl">Konfiguracja zdalna nie powiodła się</entry>
 		<entry name="de">Fern-Konfiguration fehlgeschlagen</entry>
+		<entry name="it">Configurazione remota non riuscita</entry>
 	</section>
 	
 	<section name="remote_configuration_skipped">
 		<entry name="default">Remote configuration skipped</entry>
 		<entry name="pl">Pominięto konfigurację zdalną</entry>
 		<entry name="de">Fern-Konfiguration abgebrochen</entry>
+		<entry name="it">Configurazione remota annullata</entry>
 	</section>
 
 	<section name="url">
@@ -284,6 +321,7 @@
 		<entry name="fr">URL</entry>
 		<entry name="pl">URL</entry>
 		<entry name="de">URL</entry>
+		<entry name="it">URL</entry>
 	</section>
 	
 	<section name="assistant_remote_qr">
@@ -291,6 +329,7 @@
 		<entry name="fr">Via un QR Code</entry>
 		<entry name="pl">Z kodu QR</entry>
 		<entry name="de">Von einem QR Code</entry>
+		<entry name="it">Da un codice QR</entry>
 	</section>
 	
 	<section name="assistant_remote_from_qr">
@@ -298,6 +337,7 @@
 		<entry name="fr">Configuration distante via un QR Code</entry>
 		<entry name="pl">Zdalna konfiguracja z kodu QR</entry>
 		<entry name="de">Fern-Konfiguration von einem QR Code</entry>
+		<entry name="it">Configurazione remota da un codice QR</entry>
 	</section>
 	
 	<section name="assistant_remote_from_qr_desc">
@@ -305,6 +345,7 @@
 		<entry name="fr">Scannez le QR code que vous avez généré.</entry>
 		<entry name="pl">Zeskanuj wygenerowany kod QR.</entry>
 		<entry name="de">Bitte scannen Sie den QR Code ein, den Sie generiert haben.</entry>
+		<entry name="it">Per favore, scansiona il codice QR che hai generato.</entry>
 	</section>
 
 	
@@ -312,7 +353,8 @@
 		<entry name="default">Existing account</entry>
 		<entry name="fr">Ce compte existe déjà</entry>
 		<entry name="pl">Istniejące konto</entry>
-		<entry name="de">Vorhandenes Konto</entry>
+		<entry name="de">Vorhandener Account</entry>
+		<entry name="it">Account esistente</entry>
 	</section>
 	
 	<section name="assistant_using_will_disconnect_message">
@@ -320,6 +362,7 @@
 		<entry name="fr">Si vous continuez, votre compte sera déconnecté. Souhaitez-vous continuer ?</entry>
 		<entry name="pl">Jeśli będziesz kontynuować, Twoje obecne konto zostanie odłączone. Czy chcesz kontynuować?</entry>
 		<entry name="de">Wenn Sie fortfahren, wird die Verbindung zu Ihrem aktuellen Konto getrennt. Möchten Sie fortfahren?</entry>
+		<entry name="it">Se continui, sarai disconnesso dal tuo account attuale. Vuoi continuare?</entry>
 	</section>
 	
 	<section name="username">
@@ -327,6 +370,7 @@
 		<entry name="fr">Nom d'utilisateur</entry>
 		<entry name="pl">Nazwa użytkownika</entry>
 		<entry name="de">Benutzername</entry>
+		<entry name="it">Nome utente</entry>
 	</section>
 
 	<section name="email">
@@ -334,6 +378,7 @@
 		<entry name="fr">E-Mail</entry>
 		<entry name="pl">E-mail</entry>
 		<entry name="de">E-Mail</entry>
+		<entry name="it">E-Mail</entry>
 	</section>
 
 	<section name="password">
@@ -341,6 +386,7 @@
 		<entry name="fr">Mot de passe</entry>
 		<entry name="pl">Hasło</entry>
 		<entry name="de">Passwort</entry>
+		<entry name="it">Password</entry>
 	</section>
 
 	<section name="password_confirmation">
@@ -348,13 +394,15 @@
 		<entry name="fr">Confirmation du mot de passe</entry>
 		<entry name="pl">Potwierdź hasło</entry>
 		<entry name="de">Passwort wiederholen</entry>
+		<entry name="it">Ripeti la password</entry>
 	</section>
 
 	<section name="create_account">
 		<entry name="default">Create account</entry>
 		<entry name="fr">Créer le compte</entry>
 		<entry name="pl">Utwórz konto</entry>
-		<entry name="de">Konto erstellen</entry>
+		<entry name="de">Account erstellen</entry>
+		<entry name="it">Crea account</entry>
 	</section>
 	
 	<section name="login">
@@ -362,6 +410,7 @@
 		<entry name="fr">Se connecter</entry>
 		<entry name="pl">Login</entry>
 		<entry name="de">Login</entry>
+		<entry name="it">Login</entry>
 	</section>
 	
 	<section name="login_untranslated">
@@ -372,7 +421,8 @@
 		<entry name="default">If you don't already have a DIVUS Cloud account you can register here:</entry>
 		<entry name="fr">Si vous n'avez pas encore de compte DIVUS Cloud, vous pouvez vous inscrire ici:</entry>
 		<entry name="pl">Jeśli nie masz jeszcze konta DIVUS Cloud, możesz zarejestrować się tutaj:</entry>
-		<entry name="de">Falls Sie nicht bereits einen DIVUS Cloud Account haben können Sie sich hier registrieren:</entry>
+		<entry name="de">Falls Sie nicht bereits einen DIVUS Cloud Account haben, können Sie sich hier registrieren:</entry>
+		<entry name="it">Se non hai ancora un account DIVUS Cloud, puoi registrarti qui:</entry>
 	</section>
 	
 	<section name="register_hint_url">
@@ -388,6 +438,7 @@
 		<entry name="fr">Ce champ est obligatoire</entry>
 		<entry name="pl">Pole obowiązkowe</entry>
 		<entry name="de">Pflichtfeld</entry>
+		<entry name="it">Campo obbligatorio</entry>
 	</section>
 	
 	<section name="input_invalid_format_uri">
@@ -395,6 +446,7 @@
 		<entry name="fr">Format d'url invalide</entry>
 		<entry name="pl">Nieprawidłowy format URI</entry>
 		<entry name="de">Ungültiges URL-Format</entry>
+		<entry name="it">Formato URL non valido</entry>
 	</section>
 	
 	<section name="invalid_host_name">
@@ -402,6 +454,7 @@
 		<entry name="fr">Format d'adresse invalide</entry>
 		<entry name="pl">Nieprawidłowy format adresu</entry>
 		<entry name="de">Ungültiges Adress-Format</entry>
+		<entry name="it">Formato di indirizzo non valido</entry>
 	</section>
 		
 	<section name="invalid_number">
@@ -409,13 +462,15 @@
 		<entry name="fr">Valeur incorrecte</entry>
 		<entry name="pl">Nieprawidłowy format numeru</entry>
 		<entry name="de">Ungültiges Nummernformat</entry>
+		<entry name="it">Formato numerico non valido</entry>
 	</section>
 	
 	<section name="invalid_sip_uri">
 		<entry name="default">Invalid SIP Format (sip: or sips:...) </entry>
 		<entry name="fr">Format SIP invalide  (sip: ou sips:...)</entry>
 		<entry name="pl">Nieprawidłowy format SIP (sip: lub sips: ...)</entry>
-		<entry name="de">Ungültiges SIP-Format</entry>
+		<entry name="de">Ungültiges SIP-Format (sip: oder sips:...)</entry>
+		<entry name="it">Formato SIP non valido (sip: oppure sips:...)</entry>
 	</section>
 	
 	<section name="invalid_action_code">
@@ -423,6 +478,7 @@
 		<entry name="fr">0-9 # *</entry>
 		<entry name="pl">0-9 # *</entry>
 		<entry name="de">0-9 # *</entry>
+		<entry name="it">0-9 # *</entry>
 	</section>
 	
 	<section name="action_type_missing">
@@ -430,6 +486,7 @@
 		<entry name="fr">Selectionner une action</entry>
 		<entry name="pl">Wybierz akcję</entry>
 		<entry name="de">Wähle eine Aktion</entry>
+		<entry name="it">Scegli un'azione</entry>
 	</section>
 		
 	<section name="proxy">
@@ -437,6 +494,7 @@
 		<entry name="fr">proxy</entry>
 		<entry name="pl">proxy</entry>
 		<entry name="de">proxy</entry>
+		<entry name="it">proxy</entry>
 	</section>
 	
 	<section name="register_expiration">
@@ -444,6 +502,7 @@
 		<entry name="fr">Expiration de l'enregistrement</entry>
 		<entry name="pl">Wygaszenie rejestracji</entry>
 		<entry name="de">Ablauf der Registrierung</entry>
+		<entry name="it">Scadenza della registrazione</entry>
 	</section>
 			
 	<section name="account_creator_username_too_short">
@@ -451,6 +510,7 @@
 		<entry name="fr">Nom d'utilisateur trop court</entry>
 		<entry name="pl">Nazwa użytkownika jest zbyt krótka</entry>
 		<entry name="de">Benutzername zu kurz</entry>
+		<entry name="it">Nome utente troppo corto</entry>
 	</section>
 		
 	<section name="account_creator_username_too_long">
@@ -458,6 +518,7 @@
 		<entry name="fr">Nom d'utilisateur trop long</entry>
 		<entry name="pl">Nazwa użytkownika jest za długa</entry>
 		<entry name="de">Benutzername zu lang</entry>
+		<entry name="it">Nome utente troppo lungo</entry>
 	</section>
 		
 	<section name="account_creator_username_invalid_characters">
@@ -465,6 +526,7 @@
 		<entry name="fr">Caractètres invalides</entry>
 		<entry name="pl">Nieprawidłowe znaki</entry>
 		<entry name="de">Ungültige Zeichen</entry>
+		<entry name="it">Caratteri non validi</entry>
 	</section>
 		
 	<section name="account_creator_username_invalid">
@@ -472,6 +534,7 @@
 		<entry name="fr">Nom d'utilisateur invalide</entry>
 		<entry name="pl">Zła nazwa użytkownika</entry>
 		<entry name="de">Ungültiger Benutzername</entry>
+		<entry name="it">Nome utente non valido</entry>
 	</section>
 		
 	<section name="account_creator_password_too_short">
@@ -479,6 +542,7 @@
 		<entry name="fr">Mot de passe trop court</entry>
 		<entry name="pl">Hasło jest zbyt krótkie</entry>
 		<entry name="de">Passwort zu kurz</entry>
+		<entry name="it">Password troppo corta</entry>
 	</section>
 		
 	<section name="account_creator_password_too_long">
@@ -486,6 +550,7 @@
 		<entry name="fr">Mot de passe trop long</entry>
 		<entry name="pl">Hasło jest zbyt długie</entry>
 		<entry name="de">Passwort zu lang</entry>
+		<entry name="it">Passwort troppo lunga</entry>
 	</section>
 		
 	<section name="account_creator_password_invalid_characters">
@@ -493,6 +558,7 @@
 		<entry name="fr">Caractères invalides</entry>
 		<entry name="pl">Nieprawidłowe znaki</entry>
 		<entry name="de">Ungültige Zeichen</entry>
+		<entry name="it">Caratteri non validi</entry>
 	</section>
 		
 	<section name="account_creator_password_missingchars">
@@ -500,6 +566,7 @@
 		<entry name="fr">Caractères manquants</entry>
 		<entry name="pl">Brakujące znaki</entry>
 		<entry name="de">Fehlende Zeichen</entry>
+		<entry name="it">Caratteri mancanti</entry>
 	</section>
 		
 	<section name="account_creator_email_malformed">
@@ -507,6 +574,7 @@
 		<entry name="fr">Format d'e-mail invalide</entry>
 		<entry name="pl">Niewłaściwy format e-mail</entry>
 		<entry name="de">Ungültiges E-Mail-Format</entry>
+		<entry name="it">Formato e-mail non valido</entry>
 	</section>
 	
 	<section name="account_creator_email_invalid_characters">
@@ -514,6 +582,7 @@
 		<entry name="fr">Caractères invalides</entry>
 		<entry name="pl">Nieprawidłowe znaki</entry>
 		<entry name="de">Ungültige Zeichen</entry>
+		<entry name="it">Caratteri non validi</entry>
 	</section>
 	
 	<section name="account_creator_domain_invalid">
@@ -521,6 +590,7 @@
 		<entry name="fr">Nom de domaine invalide</entry>
 		<entry name="pl">Nieprawidłowa nazwa domeny</entry>
 		<entry name="de">Ungültiger Domain-Name</entry>
+		<entry name="it">Nome di dominio non valido</entry>
 	</section>
 		
 	<section name="input_password_do_not_match">
@@ -528,6 +598,7 @@
 		<entry name="fr">Les mots de passe ne correspondent pas</entry>
 		<entry name="pl">Hasła nie pasują do siebie</entry>
 		<entry name="de">Passwörter stimmen nicht überein</entry>
+		<entry name="it">Le password non corrispondono</entry>
 	</section>
 
 	<section name="linhome_account_username_already_exists">
@@ -535,13 +606,15 @@
 		<entry name="fr">Ce nom d’utilisateur est déjà utilisé</entry>
 		<entry name="pl">Nazwa użytkownika jest zajęta</entry>
 		<entry name="de">Dieser Benutzername wird bereits genutzt</entry>
+		<entry name="it">Questo nome utente è già in uso</entry>
 	</section>
 		
 	<section name="linhome_account_loggedin">
-		<entry name="default">{appname} account connected</entry>
-		<entry name="fr">Compte {appname} connecté</entry>
-		<entry name="pl">Połączono konto {appname}</entry>
-		<entry name="de">{appname} Konto verbunden</entry>
+		<entry name="default">DIVUS Cloud account connected</entry>
+		<entry name="fr">Compte DIVUS Cloud connecté</entry>
+		<entry name="pl">Połączono konto DIVUS Cloud</entry>
+		<entry name="de">DIVUS Cloud Account verbunden</entry>
+		<entry name="it">Account DIVUS Cloud connesso</entry>
 	</section>
 	
 	<section name="linhome_account_login_failed_unknown_user_or_wroong_password">
@@ -549,6 +622,7 @@
 		<entry name="fr">Utilisateur inconnu ou mot de passe incorrect</entry>
 		<entry name="pl">Nieznana nazwa użytkownika lub nieprawidłowe hasło</entry>
 		<entry name="de">Unbekannter Benutzername oder falsches Passwort</entry>
+		<entry name="it">Nome utente sconosciuto o password sbagliata</entry>
 	</section>
 		
 	<section name="sip_account_created">
@@ -556,6 +630,7 @@
 		<entry name="fr">Compte SIP configuré</entry>
 		<entry name="pl">Skonfigurowano konto SIP</entry>
 		<entry name="de">SIP Konto konfiguriert</entry>
+		<entry name="it">Account SIP configurato</entry>
 	</section>
 	
 	<section name="failed_creating_pushgateway">
@@ -563,6 +638,7 @@
 		<entry name="fr">Les notifications "push" n'ont pas pu être activées. Attention, vous ne pourrez recevoir les appels entrants que lorsque l'application est au premier plan.</entry>
 		<entry name="pl">Nie można skonfigurować powiadomień push. Z tego powodu połączenia przychodzące będą odbierane tylko wtedy, gdy aplikacja jest uruchomiona na pierwszym planie.</entry>
 		<entry name="de">Push-Benachrichtigungen konnten nicht konfiguriert werden. Aus diesem Grund erhalten Sie eingehende Anrufe nur, wenn die App im Vordergrund ausgeführt wird.</entry>
+		<entry name="it">Le notifiche push non possono essere configurate. Per questo motivo, si ricevono le chiamate in arrivo solo quando l'app è in esecuzione in primo piano.</entry>
 	</section>
 		
 	<section name="more_settings">
@@ -570,6 +646,7 @@
 		<entry name="fr">Plus d'options</entry>
 		<entry name="pl">Więcej ustawień</entry>
 		<entry name="de">Mehr Einstellungen</entry>
+		<entry name="it">Altre impostazioni</entry>
 	</section>
 	
 	<section name="domain">
@@ -577,6 +654,7 @@
 		<entry name="fr">Domaine SIP</entry>
 		<entry name="pl">Domena SIP</entry>
 		<entry name="de">SIP Domain</entry>
+		<entry name="it">Dominio SIP</entry>
 	</section>
 	
 	<section name="transport">
@@ -584,6 +662,7 @@
 		<entry name="fr">Transport</entry>
 		<entry name="pl">Transport</entry>
 		<entry name="de">Transport</entry>
+		<entry name="it">Trasporto</entry>
 	</section>
 		
 	<!-- permissions -->
@@ -593,6 +672,7 @@
 		<entry name="fr">Vous devez autoriser l'utilisation de l'appareil photo dans {appname}.</entry>
 		<entry name="pl">{Appname} wymaga pozwolenia na aparat.</entry>
 		<entry name="de">Die Kameraberechtigung ist für {appname} erforderlich.</entry>
+		<entry name="it">L'autorizzazione della telecamera è richiesta per {appname}.</entry>
 	</section>
 	
 	<section name="camera_permission_denied">
@@ -600,6 +680,7 @@
 		<entry name="fr">Vous devez autoriser l'accès à l'appareil photo pour scanner un code QR.</entry>
 		<entry name="pl">Do skanowania kodu QR wymagane jest zezwolenie na aparat.</entry>
 		<entry name="de">Die Kameraberechtigung ist für die Benutzung von QR codes erforderlich.</entry>
+		<entry name="it">L'autorizzazione della telecamera è necessaria per l'uso dei codici QR.</entry>
 	</section>
 	
 	<section name="record_audio_permission_denied">
@@ -607,6 +688,7 @@
 		<entry name="fr">Vous devez autoriser l'utilisation du microphone pour passer un appel.</entry>
 		<entry name="pl">W przypadku połączeń wychodzących wymagany jest dostęp do mikrofonu.</entry>
 		<entry name="de">Der Mikrofonzugriff ist ausgehende Anrufe erforderlich.</entry>
+		<entry name="it">L'autorizzazione all'accesso al microfono è richiesto per le chiamate in uscita.</entry>
 	</section>
 	
 	<section name="record_audio_permission_denied_dont_ask_again">
@@ -614,6 +696,7 @@
 		<entry name="fr">Vous devez autoriser {appname} à utiliser le microphone via les réglages de votre appareil.</entry>
 		<entry name="pl">Musisz zezwolić aplikacji {appname} na nagrywanie dźwięku w ustawieniach telefonu.</entry>
 		<entry name="de">Sie müssen in den Telefoneinstellungen die Audioaufnahmeberechtigung für {appname} erteilen.</entry>
+		<entry name="it">Devi concedere il permesso di registrazione audio per {appname} nelle impostazioni del telefono.</entry>
 	</section>
 	
 	<section name="write_external_storage_permission_denied">
@@ -621,6 +704,7 @@
 		<entry name="fr">Vous devez autoriser l'accès au répertoire de stockage pour les enregistrements audio.</entry>
 		<entry name="pl">Do nagrywania rozmów wymagany jest dostęp do pamięci zewnętrznej.</entry>
 		<entry name="de">Der Schreibzugriff auf externe Speicher ist für Anrufaufzeichnungen erforderlich.</entry>
+		<entry name="it">L'accesso in scrittura alla memoria esterna è richiesto per le registrazioni delle chiamate.</entry>
 	</section>
 	
 	<section name="write_external_storage_permission_denied_dont_ask_again">
@@ -628,6 +712,7 @@
 		<entry name="fr">Vous devez autoriser {appname} à accéder à l'espace de stockage externe via les réglales de votre appareil. </entry>
 		<entry name="pl">W ustawieniach telefonu musisz zezwolić aplikacji {appname} na zapisywanie nagrań rozmów w pamięci zewnętrznej.</entry>
 		<entry name="de">Sie müssen den Schreibzugriff auf externe Speicher für {appname} zulassen, um Anrufaufzeichnungen zu speichern.</entry>
+		<entry name="it">Devi permettere l'accesso in scrittura alla memoria esterna per {appname} per salvare le registrazioni delle chiamate.</entry>
 	</section>
 		
 	<!-- Account -->
@@ -636,7 +721,8 @@
 		<entry name="default">Delete account</entry>
 		<entry name="fr">Supprimer le compte</entry>
 		<entry name="pl">Usuń konto</entry>
-		<entry name="de">Konto löschen</entry>
+		<entry name="de">Account löschen</entry>
+		<entry name="it">Cancella account</entry>
 	</section>
 	
 	<section name="change_password">
@@ -644,6 +730,7 @@
 		<entry name="fr">Modifier le mot de passe</entry>
 		<entry name="pl">Zmień hasło</entry>
 		<entry name="de">Passwort ändern</entry>
+		<entry name="it">Modifica Password</entry>
 	</section>
 	
 	<section name="no_account_configured">
@@ -651,13 +738,15 @@
 		<entry name="fr">Aucun compte configuré.\nConfigurez-en un via l'assistant de compte.</entry>
 		<entry name="pl">Żadne konto nie zostało skonfigurowane.\nSkonfiguruj je za pomocą asystenta konta.</entry>
 		<entry name="de">Kein Konto konfiguriert.\nKonfigurieren Sie ein Konto mit dem Assistenten.</entry>
+		<entry name="it">Nessun account configurato.\nConfigura un account usando l'assistente.</entry>
 	</section>
 		
 	<section name="account_info">
 		<entry name="default">Account: {0} \nSIP connection: {1}</entry>
 		<entry name="fr">Compte: {0} \nConnexion SIP: {1}</entry>
 		<entry name="pl">Konto: {0} \nPołączenie SIP: {1}</entry>
-		<entry name="de">Konto: {0} \nSIP Verbindung: {1}</entry>
+		<entry name="de">Account: {0} \nSIP Verbindung: {1}</entry>
+		<entry name="it">Account: {0} \nConnessione SIP: {1}</entry>
 	</section>
 	
 	<section name="push_account_info">
@@ -665,6 +754,7 @@
 		<entry name="fr">Compte de notifications push: {0} \n {1}</entry>
 		<entry name="pl">Konto PUSH: {0} \n {1}</entry>
 		<entry name="de">Push-Benachrichtigungskonto: {0} \n {1}</entry>
+		<entry name="it">Account notifiche push: {0} \n {1}</entry>
 	</section>
 	
 	<section name="refresh_registers">
@@ -672,20 +762,23 @@
 		<entry name="fr">Mettre à jour la connection</entry>
 		<entry name="pl">Odśwież połączenie</entry>
 		<entry name="de">Verbindung wiederherstellen</entry>
+		<entry name="it">Riconnetti</entry>
 	</section>
 	
 	<section name="account_manage_on_freesip_title">
-		<entry name="default">{appname} account management</entry>
-		<entry name="fr">Gestion du compte {appname}</entry>
-		<entry name="pl">Zarządzanie kontem {appname}</entry>
-		<entry name="de">{appname} Konto Management</entry>
+		<entry name="default">DIVUS Cloud account management</entry>
+		<entry name="fr">Gestion du compte DIVUS Cloud</entry>
+		<entry name="pl">Zarządzanie kontem DIVUS Cloud</entry>
+		<entry name="de">DIVUS Cloud Account Management</entry>
+		<entry name="it">Gestione account DIVUS Cloud</entry>
 	</section>
 	
 	<section name="account_manage_on_freesip_message">
 		<entry name="default">{appname} accounts can be managed via Linhome's online SIP service. If you change your password or delete your account via the web platform, you will need to disconnect and reconnect your account inside the app to update your credentials.</entry>
 		<entry name="fr">La gestion du compte {appname} s'effectue via le service SIP en ligne de Linhome. Si vous modifiez votre de passe ou supprimez votre compte depuis la plateforme web, vous devrez déconnecter puis reconnecter votre compte depuis l'app pour mettre à jour vos identifiants.</entry>
 		<entry name="pl">Kontami {appname} można zarządzać za pośrednictwem internetowej usługi SIP firmy Linhome. Jeśli zmienisz hasło lub usuniesz konto za pośrednictwem platformy internetowej, będziesz musiał rozłączyć i ponownie połączyć swoje konto w aplikacji, aby zaktualizować swoje poświadczenia.</entry>
-		<entry name="de">Konten von {appname} können über den Online-SIP-Dienst von Linhome verwaltet werden. Wenn Sie Ihr Kennwort ändern oder Ihr Konto über die Webplattform löschen, müssen Sie die Verbindung zu Ihrem Konto innerhalb der App trennen und erneut verbinden, um Ihre Anmeldeinformationen zu aktualisieren.</entry>
+		<entry name="de">DIVUS Cloud Accounts können über den Online-SIP-Dienst von DIVUS verwaltet werden. Wenn Sie Ihr Kennwort ändern oder Ihr Konto über die Webplattform löschen, müssen Sie die Verbindung zu Ihrem Konto innerhalb der App trennen und erneut verbinden, um Ihre Anmeldeinformationen zu aktualisieren.</entry>
+		<entry name="it">Gli account DIVUS Cloud possono essere gestiti tramite il servizio SIP online DIVUS. Se cambi la tua password o elimini il tuo account tramite la piattaforma web, devi disconnetterti e riconnetterti al tuo account all'interno dell'app per aggiornare le tue credenziali.</entry>
 	</section>
 	
 	<!-- Registration states -->
@@ -695,6 +788,7 @@
 		<entry name="fr">Non connecté</entry>
 		<entry name="pl">Nie połączono</entry>
 		<entry name="de">Nicht verbunden</entry>
+		<entry name="it">Non connesso</entry>
 	</section>
 	
 	<section name="registration_state_progress">
@@ -702,6 +796,7 @@
 		<entry name="fr">Connexion en cours</entry>
 		<entry name="pl">Trwa łączenie</entry>
 		<entry name="de">Verbindung wird hergestellt</entry>
+		<entry name="it">Connessione in corso</entry>
 	</section>
 	
 	<section name="registration_state_ok">
@@ -709,6 +804,7 @@
 		<entry name="fr">Connecté</entry>
 		<entry name="pl">Połączono</entry>
 		<entry name="de">Verbunden</entry>
+		<entry name="it">Connesso</entry>
 	</section>
 	
 	<section name="registration_state_failed">
@@ -716,6 +812,7 @@
 		<entry name="fr">Échec de la connexion</entry>
 		<entry name="pl">Połączenie nieudane</entry>
 		<entry name="de">Verbindung fehlgeschlagen</entry>
+		<entry name="it">Connessione non riuscita</entry>
 	</section>
 	
 	<section name="registration_state_cleared">
@@ -723,6 +820,7 @@
 		<entry name="fr">Déconnecté</entry>
 		<entry name="pl">Niepołączono</entry>
 		<entry name="de">Nicht verbunden</entry>
+		<entry name="it">Non connesso</entry>
 	</section>
 	
 	<!-- Settings -->
@@ -732,6 +830,7 @@
 		<entry name="fr">Codecs audio</entry>
 		<entry name="pl">Kodeki audio</entry>
 		<entry name="de">Audio Codecs</entry>
+		<entry name="it">Codec audio</entry>
 	</section>
 
 	<section name="video_codecs">
@@ -739,6 +838,7 @@
 		<entry name="fr">Codecs vidéo</entry>
 		<entry name="pl">Kodeki wideo</entry>
 		<entry name="de">Video Codecs</entry>
+		<entry name="it">Codec video</entry>
 	</section>
 	
 	<section name="log_upload_failed">
@@ -746,13 +846,15 @@
 		<entry name="fr">Une erreur est survenue. Rééssayez plus tard.</entry>
 		<entry name="pl">Wystąpił błąd, spróbuj ponownie później.</entry>
 		<entry name="de">Es ist ein Fehler aufgetreten, bitte versuchen Sie es später.</entry>
+		<entry name="it">Si è verificato un errore, si prega di riprovare più tardi.</entry>
 	</section>
 	
 	<section name="log_upload_success">
 		<entry name="default">Log successfully uploaded. URL copied to clipboard.</entry>
 		<entry name="fr">Le fichier de diagnostic a été téléchargé. L'URL a été copiée dans le presse-papier.</entry>
 		<entry name="pl">Dziennik został pomyślnie przesłany. URL skopiowany do schowka.</entry>
-		<entry name="de">Protokoll erfolgreich hochgeladen. URL in Zwischenablage kopiert.</entry>
+		<entry name="de">Log-Datei erfolgreich hochgeladen. URL in Zwischenablage kopiert.</entry>
+		<entry name="it">File di log caricato con successo. URL copiato negli appunti.</entry>
 	</section>
 		
 	<section name="support_email_android">
@@ -768,6 +870,7 @@
 		<entry name="fr">Activer le fichier de déboggage</entry>
 		<entry name="pl">Włącz dziennik debugowania</entry>
 		<entry name="de">Debugprotokoll aktivieren</entry>
+		<entry name="it">Abilita il log di debug</entry>
 	</section>
 	
 	<section name="clear_logs">
@@ -775,6 +878,7 @@
 		<entry name="fr">Supprimer le fichier de déboggage</entry>
 		<entry name="pl">Usuń plik dziennika</entry>
 		<entry name="de">Lösche Protokoll-Datei</entry>
+		<entry name="it">Cancella il log di debug</entry>
 	</section>
 	
 	<section name="log_clear_success">
@@ -782,6 +886,7 @@
 		<entry name="fr">Fichier de déboggage supprimé.</entry>
 		<entry name="pl">Plik dziennika został usunięty.</entry>
 		<entry name="de">Protokoll-Datei gelöscht.</entry>
+		<entry name="it">Log di debug cancellato</entry>
 	</section>
 		
 	<section name="send_logs">
@@ -789,6 +894,7 @@
 		<entry name="fr">Envoyer le fichier de déboggage</entry>
 		<entry name="pl">Wyślij plik dziennika</entry>
 		<entry name="de">Sende Protokoll-Datei</entry>
+		<entry name="it">Invia file di log</entry>
 	</section>
 	
 	<section name="unable_to_sendMail_from_this_device">
@@ -796,6 +902,7 @@
 		<entry name="fr">Il semble impossible d'envoyer un e-mail depuis cet appareil. Les logs se trouvent à l'adresse suivante: {0}</entry>
 		<entry name="pl">Plik dziennika usunięty. Wygląda na to, że nie można wysłać wiadomości e-mail z tego urządzenia. Dzienniki można pobrać pod następującym adresem URL: {0}</entry>
 		<entry name="de">Es scheint, dass die E-Mail nicht von diesem Gerät gesendet werden konnte. Protokolle können unter folgender URL abgerufen werden: {0}</entry>
+		<entry name="it">Sembra che l'e-mail non possa essere inviata da questo dispositivo. I log possono essere trovati al seguente URL: {0}</entry>
 	</section>
 	
 	<section name="copy_url_to_clipboard">
@@ -803,6 +910,7 @@
 		<entry name="fr">Copier l'URL</entry>
 		<entry name="pl">Skopiuj link</entry>
 		<entry name="de">Kopiere URL</entry>
+		<entry name="it">Copia URL</entry>
 	</section>
 	
 	<section name="enable_ipv6">
@@ -810,6 +918,7 @@
 		<entry name="fr">Activer IPv6</entry>
 		<entry name="pl">Włącz IPv6</entry>
 		<entry name="de">Aktiviere IPv6</entry>
+		<entry name="it">Abilita IPv6</entry>
 	</section>
 
 	<section name="media_encryption">
@@ -817,6 +926,7 @@
 		<entry name="fr">Chiffrement du média</entry>
 		<entry name="pl">Szyfrowanie multimediów</entry>
 		<entry name="de">Medienverschlüsselung</entry>
+		<entry name="it">Cifratura dei media</entry>
 	</section>
 		
 	<section name="settings_device_show_latest_snapshot">
@@ -824,6 +934,7 @@
 		<entry name="fr">Afficher les captures d'image les plus récentes dans la liste des appareils.</entry>
 		<entry name="pl">Wyświetla najnowsze przechwycone obrazy na liście urządzeń.</entry>
 		<entry name="de">Zeige die neuesten Bildaufnahmen in der Geräteliste an.</entry>
+		<entry name="it">Mostra le ultime immagini catturate nell'elenco dei dispositivi.</entry>
 	</section>
 		
 	<!-- Devices-->
@@ -833,6 +944,7 @@
 		<entry name="fr">Votre appareil</entry>
 		<entry name="pl">Your device</entry>
 		<entry name="de">Ihr Gerät</entry>
+		<entry name="it">Il tuo dispositivo</entry>
 	</section>
 		
 	<section name="device_info_actions_title">
@@ -840,6 +952,7 @@
 		<entry name="fr">Action(s) configurée(s)</entry>
 		<entry name="pl">Skonfigurowane wyjścia przekaźnikowe</entry>
 		<entry name="de">Aktion(en) konfiguriert</entry>
+		<entry name="it">Azione/i configurata/e</entry>
 	</section>
 
 	<section name="device_info_no_actions_title">
@@ -847,6 +960,7 @@
 		<entry name="fr">Aucune action configurée</entry>
 		<entry name="pl">Nie skonfigurowano wyjść przekaźnikowych</entry>
 		<entry name="de">Keine Aktionen konfiguriert</entry>
+		<entry name="it">Nessuna azione configurata</entry>
 	</section>
 	
 	<section name="delete_device_confirm_message">
@@ -854,13 +968,15 @@
 		<entry name="fr">Supprimer l'appareil {0} ?</entry>
 		<entry name="pl">Usuń urządzenie {0} ?</entry>
 		<entry name="de">Lösche Gerät {0} ?</entry>
+		<entry name="it">Cancellare dispositivo {0} ?</entry>
 	</section>
 		
 	<section name="devices_empty_list_title">
-		<entry name="default">Configure your IP video doorbells, security cameras and internal units to see what is happening out there or make a call to your home.</entry>
-		<entry name="fr">Configurez vos sonnettes IP, vos caméras de sécurité ou vos écrans de contrôle internes pour voir en vidéo ce qui se passe devant ces appareils ou pour appeler votre maison.</entry>
-		<entry name="pl">Skonfiguruj swój wideo-domofon, kamerę, panel wewnętrzny itp...</entry>
-		<entry name="de">Konfigurieren Sie Ihre IP-Videotürsprechanlage, Überwachungskameras und interne Geräte, um zu sehen, was draußen passiert, oder rufen Sie Ihr Zuhause an.</entry>
+		<entry name="default">Configure your IP video doorbell to see what's going on outside and trigger actions (e.g. door opener) through it.</entry>
+		<entry name="fr">Configurez votre sonnette vidéo IP pour voir ce qui se passe à l'extérieur et déclencher des actions (par exemple, l'ouverture de la porte) par son intermédiaire.</entry>
+		<entry name="pl">Skonfiguruj dzwonek do drzwi IP, aby widzieć, co dzieje się na zewnątrz i wyzwalać za jego pośrednictwem działania (np. otwieranie drzwi).</entry>
+		<entry name="de">Konfigurieren Sie Ihre IP-Videotürsprechanlage um zu sehen, was draußen vor sich geht und Aktionen (z.B. Türöffner) darüber auszulösen.</entry>
+		<entry name="it">Configura il tuo videocitofono IP per vedere cosa succede all'esterno e attivare delle azioni (ad esempio l'apertura della porta) tramite esso.</entry>
 	</section>
 	
 	<section name="new_device">
@@ -868,6 +984,7 @@
 		<entry name="fr">Nouvel appareil</entry>
 		<entry name="pl">Nowe urządzenie</entry>
 		<entry name="de">Neues Gerät</entry>
+		<entry name="it">Nuovo dispositivo</entry>
 	</section>
 	
 	<section name="device_name">
@@ -875,6 +992,7 @@
 		<entry name="fr">Nom de l'appareil</entry>
 		<entry name="pl">Nazwa urządzenia</entry>
 		<entry name="de">Gerät Name</entry>
+		<entry name="it">Nome dispositivo</entry>
 	</section>
 	
 	<section name="device_address">
@@ -882,6 +1000,7 @@
 		<entry name="fr">Adresse SIP</entry>
 		<entry name="pl">Adres SIP</entry>
 		<entry name="de">SIP Adresse</entry>
+		<entry name="it">Indirizzo SIP</entry>
 	</section>
 
 	<section name="device_address_already_exists">
@@ -889,10 +1008,11 @@
 		<entry name="fr">Un appareil a déjà été configuré avec cette adresse SIP ({0}).</entry>
 		<entry name="pl">Istnieje już urządzenie skonfigurowane z tym adresem SIP ({0}).</entry>
 		<entry name="de">Es ist bereits ein Gerät mit dieser SIP-Adresse ({0}) konfiguriert.</entry>
+		<entry name="it">Esiste già un dispositivo con questo indirizzo SIP ({0}).</entry>
 	</section>
 	
 	<section name="device_address_hint">
-		<entry name="default">ex : sip:1234@sip.linhome.org</entry>
+		<entry name="default">ex : sip:1234@sip.divus.eu</entry>
 	</section>
 		
 	<section name="device_type_select">
@@ -900,6 +1020,7 @@
 		<entry name="fr">Sélectionner le type d'appareil</entry>
 		<entry name="pl">Wybierz typ urządzenia</entry>
 		<entry name="de">Wähle einen Gerätetyp</entry>
+		<entry name="it">Scegli il tipo di dispositivo</entry>
 	</section>
 	
 	<section name="device_type_select_prompt">
@@ -907,6 +1028,7 @@
 		<entry name="fr">Sélectionner le type</entry>
 		<entry name="pl">Wybierz typ</entry>
 		<entry name="de">Wähle den Typ</entry>
+		<entry name="it">Scegli il tipo</entry>
 	</section>
 	
 	<section name="method_type_select">
@@ -914,6 +1036,7 @@
 		<entry name="fr">Configurer les boutons d'action (optionnel)</entry>
 		<entry name="pl">Skonfiguruj przyciski (opcjonalnie)</entry>
 		<entry name="de">Konfiguriere die Aktionstasten (optional)</entry>
+		<entry name="it">Configurare i pulsanti d'azione (opzionale)</entry>
 	</section>
 
 	<section name="action_method">
@@ -921,6 +1044,7 @@
 		<entry name="fr">Méthode</entry>
 		<entry name="pl">Metoda</entry>
 		<entry name="de">Methode</entry>
+		<entry name="it">Metodo</entry>
 	</section>
 	
 	<section name="action_method_prompt">
@@ -928,6 +1052,7 @@
 		<entry name="fr">Sélectionner la méthode</entry>
 		<entry name="pl">Wybierz metodę</entry>
 		<entry name="de">Wähle eine Methode</entry>
+		<entry name="it">Scegli un metodo</entry>
 	</section>
 	
 	<section name="method_dtmf_sip_info">
@@ -943,6 +1068,7 @@
 		<entry name="fr">Message SIP</entry>
 		<entry name="pl">Message SIP</entry>
 		<entry name="de">SIP Nachricht</entry>
+		<entry name="it">Messaggio SIP</entry>
 	</section>
 	
 	<section name="action">
@@ -950,6 +1076,7 @@
 		<entry name="fr">action</entry>
 		<entry name="pl">przycisk</entry>
 		<entry name="de">Aktion</entry>
+		<entry name="it">Azione</entry>
 	</section>
 		
 	<section name="action_prompt">
@@ -957,6 +1084,7 @@
 		<entry name="fr">Sélectionner une action</entry>
 		<entry name="pl">Wybierz ikonę</entry>
 		<entry name="de">Wähle eine Aktion</entry>
+		<entry name="it">Scegli un'azione</entry>
 	</section>
 	
 	<section name="action_open_door">
@@ -964,6 +1092,7 @@
 		<entry name="fr">Ouvrir la porte</entry>
 		<entry name="pl">Otwórz drzwi</entry>
 		<entry name="de">Öffne die Tür</entry>
+		<entry name="it">Apri la porta</entry>
 	</section>
 	
 	<section name="action_open_gate">
@@ -971,6 +1100,7 @@
 		<entry name="fr">Ouvrir le portail</entry>
 		<entry name="pl">Otwórz bramę</entry>
 		<entry name="de">Öffne das Tor</entry>
+		<entry name="it">Apri il cancello</entry>
 	</section>
 	
 	<section name="action_lightup">
@@ -978,6 +1108,7 @@
 		<entry name="fr">Allumer la lumière</entry>
 		<entry name="pl">Włącz światło</entry>
 		<entry name="de">Schalte das Licht ein</entry>
+		<entry name="it">Accendi la luce</entry>
 	</section>
 
 	<section name="action_unlock">
@@ -985,13 +1116,15 @@
 		<entry name="fr">Dévérouiller</entry>
 		<entry name="pl">Otwórz</entry>
 		<entry name="de">Öffne</entry>
+		<entry name="it">Apri</entry>
 	</section>
 	
 	<section name="action_code">
 		<entry name="default">Code</entry>
 		<entry name="fr">Code</entry>
 		<entry name="pl">Kod</entry>
-		<entry name="de">Schlüssel</entry>
+		<entry name="de">Code</entry>
+		<entry name="it">Codice</entry>
 	</section>
 		
 	<section name="device_video_intercom">
@@ -999,6 +1132,7 @@
 		<entry name="fr">Interphone vidéo</entry>
 		<entry name="pl">Wideodomofon</entry>
 		<entry name="de">Videotürsprechanlage</entry>
+		<entry name="it">Videocitofono</entry>
 	</section>
 		
 	<section name="device_audio_intercom">
@@ -1006,6 +1140,7 @@
 		<entry name="fr">Interphone audio</entry>
 		<entry name="pl">Domofon</entry>
 		<entry name="de">Audiotürsprechanlage</entry>
+		<entry name="it">Citofono audio</entry>
 	</section>
 	
 	<section name="device_security_camera">
@@ -1013,13 +1148,15 @@
 		<entry name="fr">Caméra de sécurité SIP</entry>
 		<entry name="pl">Kamera SIP</entry>
 		<entry name="de">SIP Sicherheitskamera</entry>
+		<entry name="it">Telecamera di sicurezza SIP</entry>
 	</section>
 	
 	<section name="device_internal_unit">
 		<entry name="default">Internal unit</entry>
 		<entry name="fr">Unité interne</entry>
 		<entry name="pl">Panel wewnętrzny</entry>
-		<entry name="de">Innen Einheit</entry>
+		<entry name="de">Inneneinheit</entry>
+		<entry name="it">Unità interna</entry>
 	</section>
 		
 	<section name="device_action">
@@ -1027,6 +1164,7 @@
 		<entry name="fr">Action</entry>
 		<entry name="pl">Przycisk</entry>
 		<entry name="de">Aktion</entry>
+		<entry name="it">Azione</entry>
 	</section>
 	
 	<section name="device_action_select">
@@ -1034,6 +1172,7 @@
 		<entry name="fr">Sélectionner une action</entry>
 		<entry name="pl">Wybierz ikonę</entry>
 		<entry name="de">Wähle eine Aktion</entry>
+		<entry name="it">Scegli un'azione</entry>
 	</section>
 	
 	<section name="device_action_add">
@@ -1041,6 +1180,7 @@
 		<entry name="fr">Ajouter une action</entry>
 		<entry name="pl">Dodaj przycisk</entry>
 		<entry name="de">Füge eine Aktion hinzu</entry>
+		<entry name="it">Aggiungi un'azione</entry>
 	</section>
 	
 	<section name="delete_device">
@@ -1048,6 +1188,7 @@
 		<entry name="fr">Supprimer l'appareil</entry>
 		<entry name="pl">Usuń urządzenie</entry>
 		<entry name="de">Lösche das Gerät</entry>
+		<entry name="it">Cancella il dispositivo</entry>
 	</section>
 		
 	<!-- about -->
@@ -1077,7 +1218,7 @@
 	</section>
 	
 	<section name="copyright_text">
-		<entry name="default">© DIVUS GmbH.</entry>
+		<entry name="default">© DIVUS GmbH</entry>
 	</section>
 	
 	<!-- dialogs & generic words -->
@@ -1087,6 +1228,7 @@
 		<entry name="fr">message</entry>
 		<entry name="pl">wiadomość</entry>
 		<entry name="de">Nachricht</entry>
+		<entry name="it">Messaggio</entry>
 	</section>
 		
 	<section name="ok">
@@ -1098,6 +1240,7 @@
 		<entry name="fr">Annuler</entry>
 		<entry name="pl">Anuluj</entry>
 		<entry name="de">Abbrechen</entry>
+		<entry name="it">Annulla</entry>
 	</section>
 		
 	<section name="confirm">
@@ -1105,6 +1248,7 @@
 		<entry name="fr">Confirmer</entry>
 		<entry name="pl">Potwierdź</entry>
 		<entry name="de">Bestätigen</entry>
+		<entry name="it">Conferma</entry>
 	</section>
 	
 	<section name="yes">
@@ -1112,6 +1256,7 @@
 		<entry name="fr">Oui</entry>
 		<entry name="pl">Tak</entry>
 		<entry name="de">Ja</entry>
+		<entry name="it">Si</entry>
 	</section>
 	
 	<section name="no">
@@ -1119,6 +1264,7 @@
 		<entry name="fr">Non</entry>
 		<entry name="pl">Nie</entry>
 		<entry name="de">Nein</entry>
+		<entry name="it">No</entry>
 	</section>
 	
 	<section name="apply">
@@ -1126,6 +1272,7 @@
 		<entry name="fr">Appliquer</entry>
 		<entry name="pl">Zastosuj</entry>
 		<entry name="de">Anwenden</entry>
+		<entry name="it">Applica</entry>
 	</section>
 
 	<section name="generic_dialog_error_title">
@@ -1133,6 +1280,7 @@
 		<entry name="fr">Erreur</entry>
 		<entry name="pl">Błąd</entry>
 		<entry name="de">Fehler</entry>
+		<entry name="it">Errore</entry>
 	</section>
 
 	<section name="none">
@@ -1140,6 +1288,7 @@
 		<entry name="fr">Aucun</entry>
 		<entry name="pl">Żaden</entry>
 		<entry name="de">Keine</entry>
+		<entry name="it">Nessuna</entry>
 	</section>
 	
 	<section name="save">
@@ -1147,6 +1296,7 @@
 		<entry name="fr">Enregistrer</entry>
 		<entry name="pl">Zapisz</entry>
 		<entry name="de">Speichern</entry>
+		<entry name="it">Salva</entry>
 	</section>
 
 	<section name="select">
@@ -1154,6 +1304,7 @@
 		<entry name="fr">Sélectionner</entry>
 		<entry name="pl">Wybierz</entry>
 		<entry name="de">Auswählen</entry>
+		<entry name="it">Seleziona</entry>
 	</section>
 	
 	<section name="edit">
@@ -1161,6 +1312,7 @@
 		<entry name="fr">Éditer</entry>
 		<entry name="pl">Edytuj</entry>
 		<entry name="de">Bearbeiten</entry>
+		<entry name="it">Modifica</entry>
 	</section>
 
 	<section name="today">
@@ -1168,6 +1320,7 @@
 		<entry name="fr">Aujourd'hui</entry>
 		<entry name="pl">Dzisiaj</entry>
 		<entry name="de">Heute</entry>
+		<entry name="it">Oggi</entry>
 	</section>
 
 	<section name="yesterday">
@@ -1175,15 +1328,17 @@
 		<entry name="fr">Hier</entry>
 		<entry name="pl">Wczoraj</entry>
 		<entry name="de">Gestern</entry>
+		<entry name="it">Ieri</entry>
 	</section>
 	
 	<!-- Call View -->
 	
 	<section name="incoming_someone_at_your_door">
-		<entry name="default">Someone is ringing your doorbell.</entry>
-		<entry name="fr">Quelqu'un sonne à votre porte.</entry>
-		<entry name="pl">Ktoś dzwoni do drzwi.</entry>
-		<entry name="de">jemand klingelt an Ihrer Tür.</entry>
+		<entry name="default">Someone rang your doorbell.</entry>
+		<entry name="fr">Quelqu'un a sonné à votre porte.</entry>
+		<entry name="pl">Ktoś zadzwonił do twoich drzwi.</entry>
+		<entry name="de">Jemand hat an Ihrer Tür geklingelt.</entry>
+		<entry name="it">Qualcuno ha suonato il tuo campanello.</entry>
 	</section>
 
 	<section name="call_button_accept">
@@ -1191,6 +1346,7 @@
 		<entry name="fr">Décrocher</entry>
 		<entry name="pl">Odbierz</entry>
 		<entry name="de">Annehmen</entry>
+		<entry name="it">Accetta</entry>
 	</section>
 
 	<section name="call_button_decline">
@@ -1198,6 +1354,7 @@
 		<entry name="fr">Raccrocher</entry>
 		<entry name="pl">Odrzuć</entry>
 		<entry name="de">Ablehnen</entry>
+		<entry name="it">Rifiuta</entry>
 	</section>
 	
 	<section name="call_button_cancel">
@@ -1205,6 +1362,7 @@
 		<entry name="fr">Annuler</entry>
 		<entry name="pl">Anuluj</entry>
 		<entry name="de">Abbrechen</entry>
+		<entry name="it">Annulla</entry>
 	</section>
 			
 	<section name="call_button_hangup">
@@ -1212,6 +1370,7 @@
 		<entry name="fr">Raccrocher</entry>
 		<entry name="pl">Zakończ</entry>
 		<entry name="de">Auflegen</entry>
+		<entry name="it">Riaggancia</entry>
 	</section>
 
 	<section name="call_button_mute">
@@ -1219,6 +1378,7 @@
 		<entry name="fr">Désactiver</entry>
 		<entry name="pl">Wycisz</entry>
 		<entry name="de">Stumm</entry>
+		<entry name="it">Muto</entry>
 	</section>
 	
 	<section name="call_button_unmute">
@@ -1226,6 +1386,7 @@
 		<entry name="fr">Activer</entry>
 		<entry name="pl">Wyłącz wyciszenie</entry>
 		<entry name="de">Mikrophon einschalten</entry>
+		<entry name="it">Accendere il microfono</entry>
 	</section>
 	
 	<section name="call_button_enable_speaker">
@@ -1233,6 +1394,7 @@
 		<entry name="fr">Activer</entry>
 		<entry name="pl">Włącz</entry>
 		<entry name="de">Einschalten</entry>
+		<entry name="it">Accendi</entry>
 	</section>
 	
 	<section name="call_button_disable_speaker">
@@ -1240,6 +1402,7 @@
 		<entry name="fr">Désactiver</entry>
 		<entry name="pl">Wyłącz</entry>
 		<entry name="de">Ausschalten</entry>
+		<entry name="it">Spegni</entry>
 	</section>
 	
 		<!-- Error -->
@@ -1248,7 +1411,8 @@
 		<entry name="default">The device could not be reached. Check its configuration or your network connection.</entry>
 		<entry name="fr">L'Appareil n'a pas pu être contacté. Vérifiez qu'il soit bien configuré dans l'application ou votre connexion.</entry>
 		<entry name="pl">Nie można połączyć się z urządzeniem. Sprawdź jego konfigurację.</entry>
-		<entry name="de">Das Gerät konnte nicht erreicht werden. Überprüfen Sie die Konfiguration oder Ihre Netzwerkverbindung.</entry>
+		<entry name="de">Das Gerät konnte nicht erreicht werden. Überprüfen Sie dessen Konfiguration oder Ihre Netzwerkverbindung.</entry>
+		<entry name="it">Connessione al dispositivo non riuscita. Controlla la sua configurazione o la tua connessione di rete.</entry>
 	</section>
 	
 	<!-- notification -->
@@ -1258,6 +1422,7 @@
 		<entry name="fr">Appel entrant</entry>
 		<entry name="pl">Połączenie przychodzące</entry>
 		<entry name="de">Eingehender Anruf</entry>
+		<entry name="it">Chiamata in arrivo</entry>
 	</section>
 	
 	<section name="notif_incoming_call_audio">
@@ -1265,6 +1430,7 @@
 		<entry name="fr">Appel audio</entry>
 		<entry name="pl">Połączenie audio</entry>
 		<entry name="de">Audio-Anruf</entry>
+		<entry name="it">Chiamata audio</entry>
 	</section>
 	
 	<section name="notif_incoming_call_video">
@@ -1272,6 +1438,7 @@
 		<entry name="fr">Appel vidéo</entry>
 		<entry name="pl">Połączenie wideo</entry>
 		<entry name="de">Video-Anruf</entry>
+		<entry name="it">Videochiamata</entry>
 	</section>
 	
 	<section name="notif_missed_call_title">
@@ -1279,6 +1446,7 @@
 		<entry name="fr">Appel(s) manqué(s)</entry>
 		<entry name="pl">Nieodebrane połączenie</entry>
 		<entry name="de">Verpasste Anrufe</entry>
+		<entry name="it">Chiamate perse</entry>
 	</section>
 	
 	<section name="notif_missed_calls">
@@ -1286,6 +1454,7 @@
 		<entry name="fr">{0} appels manqués</entry>
 		<entry name="pl">{0} nieodebranych połączeń</entry>
 		<entry name="de">{0} verpasste Anrufe</entry>
+		<entry name="it">{0} chiamate perse</entry>
 	</section>
 	
 	<section name="notif_missed_call">
@@ -1293,6 +1462,7 @@
 		<entry name="fr">appel manqué de {0}</entry>
 		<entry name="pl">nieodebrane połączenie od {0}</entry>
 		<entry name="de">Verpasster Anruf von {0}</entry>
+		<entry name="it">Chiamata persa da {0}</entry>
 	</section>
 	
 	<section name="notif_outgoing_call">
@@ -1300,6 +1470,7 @@
 		<entry name="fr">Appel sortant</entry>
 		<entry name="pl">Połączenie wychodzące</entry>
 		<entry name="de">Ausgehender Anruf</entry>
+		<entry name="it">Chiamata in uscita</entry>
 	</section>
 	
 	<section name="notif_in_call">
@@ -1307,6 +1478,7 @@
 		<entry name="fr">Appel en cours</entry>
 		<entry name="pl">Połączenie w toku</entry>
 		<entry name="de">Anruf wird geführt</entry>
+		<entry name="it">Chiamata in corso</entry>
 	</section>
 		
 	<!-- Android specific texts start-->
@@ -1324,6 +1496,7 @@
 		<entry name="fr">Service {appname}</entry>
 		<entry name="pl">Usługa {appname}</entry>
 		<entry name="de">{appname} Service</entry>
+		<entry name="it">Servizio {appname}</entry>
 	</section>
 
 	<section name="notification_channel_incoming_call_name">
@@ -1331,6 +1504,7 @@
 		<entry name="fr">{appname} Appel entrant</entry>
 		<entry name="pl">{appname} Połączenie przychodzące</entry>
 		<entry name="de">{appname} Eingehender Anruf</entry>
+		<entry name="it">{appname} Chiamata in arrivo</entry>
 	</section>
 
 	<section name="service_name">
@@ -1338,6 +1512,7 @@
 		<entry name="fr">Service {appname}</entry>
 		<entry name="pl">Usługa {appname}</entry>
 		<entry name="de">{appname} Service</entry>
+		<entry name="it">Servizio {appname}</entry>
 	</section>
 
 	<section name="service_auto_start_description">
@@ -1345,6 +1520,7 @@
 		<entry name="fr">{appname} a démarré automatiquement.</entry>
 		<entry name="pl">Aplikacja {appname} została uruchomiona automatycznie.</entry>
 		<entry name="de">{appname} wurde automatisch gestartet.</entry>
+		<entry name="it">{appname} è stata avviata automaticamente.</entry>
 	</section>
 
 	<section name="service_description">
@@ -1352,27 +1528,31 @@
 		<entry name="fr">Sans notifications push vous ne pourrez pas recevoir d'appels lorsque l'application est fermée ou en arrière-plan. Vous pourrez cependant utiliser l'application pour appeler vos appareils ou recevoir des appels quand l'application est ouverte.</entry>
 		<entry name="pl">Powiadomienia push są wymagane do odbierania połączeń przychodzących, gdy aplikacja jest zamknięta lub działa w tle.</entry>
 		<entry name="de">Ohne Push-Benachrichtigungen können Sie keine Anrufe empfangen, während die App geschlossen oder im Hintergrund ausgeführt wird. Sie können sie jedoch weiterhin verwenden, um Ihre Geräte anzurufen oder Anrufe zu empfangen, wenn Ihre App geöffnet wird.</entry>
+		<entry name="it">Senza le notifiche push, non è possibile ricevere chiamate mentre l'app è chiusa o in esecuzione in background. Tuttavia, puoi ancora usarla per chiamare i tuoi dispositivi o ricevere chiamate quando la tua app è aperta.</entry>
 	</section>
 
 	<section name="linhome_account_created">
-		<entry name="default">Your {appname} account {0} has been created. You will receive a validation e-mail shortly. Click on the link you received by e-mail to finalize the creation of your account.</entry>
-		<entry name="fr">Votre compte {appname} {0} a été crée. Vous allez recevoir un e-mail de validation. Cliquez sur le lien reçu par e-mail pour finaliser la création du compte.</entry>
-		<entry name="pl">Twoje konto {appname} {0} zostało utworzone. Wkrótce otrzymasz e-mail z potwierdzeniem. Kliknij link z otrzymanej wiadomości e-mail, aby sfinalizować tworzenie konta.</entry>
-		<entry name="de">Ihr {appname} Konto {0} wurde erstellt. Sie erhalten in Kürze eine Validierungs-E-Mail. Klicken Sie auf den Link, den Sie per E-Mail erhalten haben, um die Erstellung Ihres Kontos abzuschließen.</entry>
+		<entry name="default">Your DIVUS Cloud account {0} has been created. You will receive a validation e-mail shortly. Click on the link you received by e-mail to finalize the creation of your account.</entry>
+		<entry name="fr">Votre compte DIVUS Cloud {0} a été crée. Vous allez recevoir un e-mail de validation. Cliquez sur le lien reçu par e-mail pour finaliser la création du compte.</entry>
+		<entry name="pl">Twoje konto DIVUS Cloud {0} zostało utworzone. Wkrótce otrzymasz e-mail z potwierdzeniem. Kliknij link z otrzymanej wiadomości e-mail, aby sfinalizować tworzenie konta.</entry>
+		<entry name="de">Ihr DIVUS Cloud Account {0} wurde erstellt. Sie erhalten in Kürze eine Validierungs-E-Mail. Klicken Sie auf den Link, den Sie per E-Mail erhalten, um die Erstellung Ihres Kontos abzuschließen.</entry>
+		<entry name="it">Il tuo account DIVUS Cloud {0} è stato creato. Riceverai a breve un'e-mail di convalida. Clicca sul link che riceverai via e-mail per finalizzare la creazione del tuo account.</entry>
 	</section>
 	
 	<section name="linhome_account_creation_failed">
-		<entry name="default">An error has occurred. Please try again later or contact Linhome's support team. Error code: {0}</entry>
-		<entry name="fr">Une erreur est survenue. Réessayez ultérieurement ou contactez le service de support de Linhome. Code d'erreur: {0}</entry>
-		<entry name="pl">Wystąpił błąd. Spróbuj ponownie później lub skontaktuj się z zespołem pomocy Linhome. Kod błędu: {0}</entry>
-		<entry name="de">Ein Fehler ist aufgetreten. Versuchen Sie es später erneut oder wenden Sie sich an das Supportteam von Linhome. Fehlercode: {0}</entry>
+		<entry name="default">An error has occurred. Please try again later or contact DIVUS's support team. Error code: {0}</entry>
+		<entry name="fr">Une erreur est survenue. Réessayez ultérieurement ou contactez le service de support de DIVUS. Code d'erreur: {0}</entry>
+		<entry name="pl">Wystąpił błąd. Spróbuj ponownie później lub skontaktuj się z zespołem pomocy DIVUS. Kod błędu: {0}</entry>
+		<entry name="de">Ein Fehler ist aufgetreten. Versuchen Sie es später erneut oder wenden Sie sich an das Supportteam von DIVUS. Fehlercode: {0}</entry>
+		<entry name="it">Si è verificato un errore. Riprova più tardi o contatta il team di supporto DIVUS. Codice di errore: {0}</entry>
 	</section>
 
 	<section name="linhome_account_creation_request_failed">
-		<entry name="default">Request failed. Please try again later or contact Linhome's support team.</entry>
-		<entry name="fr">Une erreur de requête est survenue. Rééssayez ultérieurement ou contactez le service de support de Linhome.</entry>
-		<entry name="pl">Żądanie nie powiodło się. Spróbuj ponownie później lub skontaktuj się z zespołem pomocy Linhome.</entry>
-		<entry name="de">Die Anforderung ist fehlgeschlagen. Versuchen Sie es später erneut oder wenden Sie sich an das Supportteam von Linhome.</entry>
+		<entry name="default">Request failed. Please try again later or contact DIVUS's support team.</entry>
+		<entry name="fr">Une erreur de requête est survenue. Rééssayez ultérieurement ou contactez le service de support de DIVUS.</entry>
+		<entry name="pl">Żądanie nie powiodło się. Spróbuj ponownie później lub skontaktuj się z zespołem pomocy DIVUS.</entry>
+		<entry name="de">Die Anforderung ist fehlgeschlagen. Versuchen Sie es später erneut oder wenden Sie sich an das Supportteam von DIVUS.</entry>
+		<entry name="it">La richiesta è fallita. Riprova più tardi o contatta il team di supporto DIVUS.</entry>
 	</section>
 	
 	<!-- Android specifics end -->
