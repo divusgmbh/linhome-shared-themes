@@ -1217,6 +1217,18 @@
 		<entry name="default">https://www.gnu.org/licenses/gpl-3.0.html</entry>
 	</section>
 	
+	<section name="source_code_text">
+		<entry name="default">Source code on DIVUS GmbH GitHub</entry>
+		<entry name="fr">Code source sur DIVUS GmbH GitHub</entry>
+		<entry name="pl">Kod źródłowy na DIVUS GmbH GitHub</entry>
+		<entry name="de">Quellcode auf DIVUS GmbH GitHub</entry>
+		<entry name="it">Sorgenti su DIVUS GmbH GitHub</entry>
+	</section>
+	
+	<section name="source_code_link">
+		<entry name="default">https://github.com/divusgmbh</entry>
+	</section>
+	
 	<section name="copyright_text">
 		<entry name="default">© DIVUS GmbH</entry>
 	</section>
