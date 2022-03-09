@@ -83,8 +83,8 @@
 	</section>
 	
 	<section name="selection-effect.incall_call_button">
-		<entry name="default">transparent</entry>
-		<entry name="selected">color_a</entry>
+		<entry name="default">color_a</entry>
+		<entry name="selected">color_o</entry>
 		<entry name="disabled">transparent</entry>
 	</section>
 
