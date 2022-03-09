@@ -17,4 +17,9 @@ cd linhome-shared-themes
 git pull
 rebuild project
 
+### DIVUS GmbH license and trademarks
+
+The code is released under the terms of the GNU/GPLv3 license.
+
+"DIVUS", "VIDEOPHONE Mobile" and other branding names are trademarks of DIVUS GmbH and if you plan to build the app for redistribution must be replaced in icons, images and labels.
 
